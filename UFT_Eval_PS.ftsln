@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "UFT_Eval_PS_Amazon_MobAcc", "UFT_Eval_PS_Amazon_MobAcc\Test.tsp", "967D162F-4F12-4508-90C1-14B71712BE51"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\MBaladhandapani\Desktop\UFT_Eval_PS\UFT_Eval_PS_Amazon_MobAcc\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		967D162F-4F12-4508-90C1-14B71712BE51.Debug|Any CPU.Build.0 = Debug|Any CPU
+		967D162F-4F12-4508-90C1-14B71712BE51.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		967D162F-4F12-4508-90C1-14B71712BE51.Release|Any CPU.Build.0 = Release|Any CPU
+		967D162F-4F12-4508-90C1-14B71712BE51.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
